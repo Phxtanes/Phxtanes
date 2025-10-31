@@ -42,21 +42,36 @@ Always eager to learn, create, and grow as a developer every day.
 | 🏫 **[UTCC Lost & Found System](https://github.com/Phxtanes/Unifind-jing)** | Web system for managing lost & found items at UTCC. | React + Spring Boot + MongoDB |
 | ♿ **Disability Debt Support System**  | Internal platform for the Fund for Promotion of Equality for Persons with Disabilities. | Nuxt 3 + Lumen + MySQL |
 | 💰 **Gold Pawn System**  | End-to-end pawnshop workflow and loan management. | Vue.js + Figma |
-| 🏢 **[Dormitory BI Dashboard](https://github.com/Phxtanes/Dormitory-management-system)** | Dashboard for analyzing dorm occupancy & utility data. | HTML + CSS + PHP + MySQL |
+| 🏢 **[Dormitory BI Dashboard](https://github.com/Phxtanes/Dormitory-management-system)** | Dashboard for analyzing dorm occupancy & utility data. | PHP + HTML + CSS + MySQL |
 | 🎮 **[UTCC-Phobia 3D Horror Game](https://github.com/PhxtanesFinal_jing)** | Unreal Engine 5 horror game inspired by UTCC campus. | Unreal Engine 5 |
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Phxtanes&theme=algolia&column=4&margin-w=15&margin-h=15)
+## 💼 Experience
 
-</div>
+### 🎯 Current Role
+**Full Stack Developer** — April 2025 - Present
+- Developing government compliance reporting systems
+- UX/UI design and frontend implementation with Vue.js & Nuxt
+- Backend API development with PHP Lumen
+- Database design and optimization
+
+### 📋 Previous Experience
+**UX/UI Designer & Frontend Developer** — May 2024 - September 2024  
+*Gold Pawn System (Private Sector)*
+- Designed and developed responsive user interfaces
+- Implemented Vue.js components with real-time validation
+- Created workflow designs and user interaction flows
+
+**UX/UI Designer & Frontend Developer** — April 2024 - Present
+ UTCC Lost & Found System (University Project)
+- Led full-stack development of institutional management system
+- Implemented feature-rich web application for staff
+- Designed user flows and conducted UX research
 
 ---
 
-### 📫 Connect With Me
+### 📫 Contact Me
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phxtanes.github.io/Phutanes_Portfolio-436BB7?style=for-the-badge)](https://phxtanes.github.io/Phutanes_Portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phxtanes)
