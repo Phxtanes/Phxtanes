@@ -5,11 +5,10 @@
 ---
 
 ### 🌌 About Me
-I'm a **Computer Science student at UTCC** with a strong passion for web development and modern interface design.  
-I have practical experience in **frontend development**, **UX/UI design**, and building **RESTful APIs**.  
-Skilled in frameworks like **Vue**, **React**, and **Nuxt**, I enjoy turning ideas into smooth, interactive user experiences.  
+I'm a **Computer Science student at UTCC** with strong skills in **frontend development**, **UX/UI design**, and building **RESTful APIs**.  
+Experienced with **Vue**, **React**, **Nuxt**, and **Lumen**, I enjoy transforming ideas into seamless, interactive web experiences.  
 Currently developing real-world systems for both **university projects** and **government organizations** in Thailand 🇹🇭.  
-Always eager to learn, create, and grow as a developer every day.
+
 
 - 🎓 Studying Computer Science at **UTCC**  
 - ⚙️ **Experienced with:** Vue.js, Nuxt 3, React, and Lumen API
@@ -18,7 +17,7 @@ Always eager to learn, create, and grow as a developer every day.
 
 ---
 
-### 🧠 Tech Stack
+### ⚙️ Technical Skills
 
 #### 🧩 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-436BB7?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -26,7 +25,7 @@ Always eager to learn, create, and grow as a developer every day.
 ![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-3B82F6?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### ⚙️ Backend & Tools
+#### 🧩 Backend & Tools
 ![Lumen](https://img.shields.io/badge/Lumen-F97316?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0FA968?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,22 +48,21 @@ Always eager to learn, create, and grow as a developer every day.
 
 ## 💼 Experience
 
-### 🎯 Current Role
-**Full Stack Developer** — April 2025 - Present
+**Full Stack Developer** — April 2025 - Present  
+*Disability Debt Support System (Private Sector)*  
 - Developing government compliance reporting systems
 - UX/UI design and frontend implementation with Vue.js & Nuxt
 - Backend API development with PHP Lumen
 - Database design and optimization
 
-### 📋 Previous Experience
 **UX/UI Designer & Frontend Developer** — May 2024 - September 2024  
-*Gold Pawn System (Private Sector)*
+*Gold Pawn System (Private Sector)*  
 - Designed and developed responsive user interfaces
 - Implemented Vue.js components with real-time validation
 - Created workflow designs and user interaction flows
 
-**UX/UI Designer & Frontend Developer** — April 2024 - Present
- UTCC Lost & Found System (University Project)
+**UX/UI Designer & Frontend Developer** — April 2024 - Present  
+*UTCC Lost & Found System (University Project)*
 - Led full-stack development of institutional management system
 - Implemented feature-rich web application for staff
 - Designed user flows and conducted UX research
@@ -72,15 +70,14 @@ Always eager to learn, create, and grow as a developer every day.
 ---
 
 ### 📫 Contact Me
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phxtanes.github.io/Phutanes_Portfolio-436BB7?style=for-the-badge)](https://phxtanes.github.io/Phutanes_Portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phxtanes)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phxtanes.github.io/Phutanes_Portfolio-436BB7?style=for-the-badge)](https://phxtanes.github.io/Phutanes_Portfolio)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phxtanes)&nbsp;
+[![Email](https://img.shields.io/badge/Email-phutanes.tri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phutanes.tri@gmail.com)&nbsp;
 
 ---
 
 <div align="center">
-  
-💬 *“Code with clarity. Design with empathy. Build with purpose.”*  
-🩵 *Minimalist • Frontend Developer • Lifelong Learner*
+
+🩵 **Thank you for visiting my profile — hope you enjoy exploring my projects!**
 
 </div>
