@@ -5,12 +5,14 @@
 ---
 
 ### 🌌 About Me
-I'm a **frontend developer** with a strong focus on **modern UI design and smooth user experiences**.  
-I enjoy turning complex ideas into clean, intuitive web applications.  
-Currently building real-world systems for **university** and **government organizations** in Thailand 🇹🇭.
+I'm a **Computer Science student at UTCC** with a strong passion for web development and modern interface design.  
+I have practical experience in **frontend development**, **UX/UI design**, and building **RESTful APIs**.  
+Skilled in frameworks like **Vue**, **React**, and **Nuxt**, I enjoy turning ideas into smooth, interactive user experiences.  
+Currently developing real-world systems for both **university projects** and **government organizations** in Thailand 🇹🇭.  
+Always eager to learn, create, and grow as a developer every day.
 
 - 🎓 Studying Computer Science at **UTCC**  
-- ⚙️ Focus on **Vue.js**, **Nuxt 3**, **React**, and **Lumen API**  
+- ⚙️ **Experienced with:** Vue.js, Nuxt 3, React, and Lumen API
 - 🎨 Passionate about **UI/UX**, **minimal design**, and **Kanit typography**  
 - 🚀 Always learning and improving — one commit at a time  
 
