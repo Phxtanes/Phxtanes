@@ -6,7 +6,6 @@
     <a href="https://phxtanes.github.io/Phutanes_Portfolio"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-phxtanes.github.io-1a46a0?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
     <a href="https://linkedin.com/in/phutanes-trisiri"><img src="https://img.shields.io/badge/LinkedIn-Phutanes_Trisiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:phutanes.tri@gmail.com"><img src="https://img.shields.io/badge/Email-phutanes.tri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-    <a href="https://github.com/Phxtanes"><img src="https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
@@ -118,15 +117,6 @@ I'm a **Full-Stack Software Developer** and final-year **Computer Science studen
 - Engineered **Unifind**, the comprehensive campus lost & found platform with a Staff-Only Portal and student LINE OA.
 - Integrated **Google Gemini AI** for smart lost-and-found semantic matching with multi-model fallbacks.
 - Designed 13+ relational PostgreSQL tables on **Supabase** and deployed the entire architecture with **Docker Compose**.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phxtanes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxtanes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Top Languages" />
-</div>
 
 ---
 
