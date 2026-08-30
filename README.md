@@ -6,6 +6,7 @@
     <a href="https://phxtanes.github.io/Phutanes_Portfolio"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-phxtanes.github.io-1a46a0?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
     <a href="https://linkedin.com/in/phutanes-trisiri"><img src="https://img.shields.io/badge/LinkedIn-Phutanes_Trisiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:phutanes.tri@gmail.com"><img src="https://img.shields.io/badge/Email-phutanes.tri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    
   </p>
 </div>
 
@@ -23,64 +24,18 @@ I'm a **Full-Stack Software Developer** and final-year **Computer Science studen
 
 ---
 
-### ⚙️ Technical Skills & Capabilities
+### ⚙️ Core Technical Stack
 
-<table>
-  <tr>
-    <td width="20%"><b>🎨 Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js_3-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚙️ Backend & APIs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lumen_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/RESTful_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🗄️ Databases & Storage</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Milvus_(Vector_DB)-00A1EA?style=for-the-badge&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI & Enterprise</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/RAG_&_LLM-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure_AD_/_SSO-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>🚀 DevOps & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Category | Core Technologies |
+|:---|:---|
+| **🎨 Frontend** | <img src="https://img.shields.io/badge/Nuxt_3-0F172A?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82" /> <img src="https://img.shields.io/badge/Vue.js_3-0F172A?style=for-the-badge&logo=vuedotjs&logoColor=42B883" /> <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" /> |
+| **⚙️ Backend** | <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express.js-0F172A?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Lumen_(Laravel)-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20" /> <img src="https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F" /> |
+| **🗄️ Database & AI** | <img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" /> <img src="https://img.shields.io/badge/Milvus_(RAG)-0F172A?style=for-the-badge&logo=databricks&logoColor=00A1EA" /> <img src="https://img.shields.io/badge/Gemini_AI-0F172A?style=for-the-badge&logo=googlegemini&logoColor=8E75FF" /> |
+| **🚀 DevOps & Cloud** | <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" /> <img src="https://img.shields.io/badge/Linux_/_Nginx-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/GitLab_CI/CD-0F172A?style=for-the-badge&logo=gitlab&logoColor=FC6D26" /> <img src="https://img.shields.io/badge/Azure_AD-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=0089D6" /> <img src="https://img.shields.io/badge/LINE_OA_API-0F172A?style=for-the-badge&logo=line&logoColor=00C300" /> <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E" /> |
+
+</div>
 
 ---
 
