@@ -1,132 +1,147 @@
+<!-- 💙 Profile README for Phxtanes -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a46a0,2563eb,38bdf8&height=200&section=header&text=Phutanes%20Trisiri&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Software%20Developer%20%7C%20Computer%20Science%20@%20UTCC&descFontSize=18&descAlignY=62&descAlign=50" width="100%" />
 
-# Phutanes Trisiri
-### Full-Stack Software Developer
-
-**Bangkok, Thailand** &nbsp;•&nbsp; [🌐 Live Portfolio](https://phxtanes.github.io/Phutanes_Portfolio) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com/in/phutanes-trisiri) &nbsp;•&nbsp; [🐙 GitHub](https://github.com/Phxtanes) &nbsp;•&nbsp; [✉️ phutanes.tri@gmail.com](mailto:phutanes.tri@gmail.com)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UTCC_Computer_Science-GPAX_3.52-0f172a?style=flat&labelColor=1e293b&color=2563eb" alt="GPAX" />
-  <img src="https://img.shields.io/badge/Core_Focus-Full--Stack_%26_Enterprise_Systems-0f172a?style=flat&labelColor=1e293b&color=059669" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Graduating_2026_/_Available_for_Opportunities-0f172a?style=flat&labelColor=1e293b&color=4f46e5" alt="Status" />
-</p>
-
+  <p align="center">
+    <a href="https://phxtanes.github.io/Phutanes_Portfolio"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-phxtanes.github.io-1a46a0?style=for-the-badge" alt="Portfolio" /></a>&nbsp;
+    <a href="https://linkedin.com/in/phutanes-trisiri"><img src="https://img.shields.io/badge/LinkedIn-Phutanes_Trisiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="mailto:phutanes.tri@gmail.com"><img src="https://img.shields.io/badge/Email-phutanes.tri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+    <a href="https://github.com/Phxtanes"><img src="https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
 
 ---
 
-### 👤 Executive Profile
+### 🌌 About Me
 
-Final-year Computer Science student at the **University of the Thai Chamber of Commerce (UTCC) — GPAX 3.52** with hands-on production experience engineering **B2B SaaS platforms**, **government compliance portals**, and **internal enterprise workflows**.
+I'm a **Full-Stack Software Developer** and final-year **Computer Science student at UTCC (GPAX 3.52)** with hands-on experience building real-world enterprise platforms, B2B CRM systems, government portals, and AI-driven web applications.
 
-- **System Architecture:** Translating business requirements into scalable ER models, secure RESTful APIs, and intuitive user interfaces.
-- **Full-Stack Implementation:** Developing modular frontends with **Nuxt 3 / Vue 3 / React** and high-performance backends with **Express.js / Node.js / PHP Lumen**.
-- **Enterprise & AI Integrations:** Experience implementing **Azure AD / MSAL Single Sign-On**, **Role-Based Access Control (RBAC)**, **AI Retrieval-Augmented Generation (RAG)** using **Milvus Vector DB**, and **Google Gemini AI SDK**.
-- **DevOps & Infrastructure:** Containerization with **Docker Compose**, reverse proxy with **Nginx**, process management with **PM2**, Linux server environments, and **GitLab CI/CD**.
-
----
-
-### 🛠️ Technical Competencies
-
-- **Architecture & System Design:** Full-Stack Web Applications, Microservices, RESTful APIs, Role-Based Access Control (RBAC)
-- **Frontend Engineering:** Nuxt 3, Vue.js 3 (Composition API), React, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap, Pinia
-- **Backend & APIs:** Node.js, Express.js, PHP (Lumen / Laravel), Java (Spring Boot), JWT Authentication & Middleware
-- **Databases & AI Storage:** MySQL / MariaDB, PostgreSQL / Supabase, Milvus Vector DB (RAG), Google Gemini AI SDK, SQL Server
-- **DevOps & Cloud:** Linux (Ubuntu), Docker Compose, Nginx Reverse Proxy, PM2, GitLab CI/CD, Git & GitHub
-- **UI/UX & Tooling:** Figma (Design Systems & Interactive Prototypes), Postman, LINE Messaging API Webhooks
+- 🎓 **Education:** Final-Year B.Sc. in Computer Science @ **University of the Thai Chamber of Commerce (UTCC)** (GPAX: **3.52**)
+- 💼 **Professional Background:** Practical experience in **Software House** & **Enterprise Client Projects**, working across frontend, backend, databases, enterprise SSO, AI integration, and deployment.
+- ⚡ **Core Strengths:** Nuxt 3, Vue 3, React, Node.js / Express, Lumen (PHP), Spring Boot, MySQL, Supabase, Milvus Vector DB (RAG), and Docker.
+- 🤖 **AI & Integrations:** Building Retrieval-Augmented Generation (RAG) pipelines, Google Gemini SDK, Azure AD / MSAL Auth, and LINE Official Account (LINE OA) Messaging APIs.
+- 🎯 **Mindset:** Bridging business requirements with clean architecture, intuitive UX/UI design, and high-performance code.
 
 ---
 
-### 🚀 Selected Engineering Projects
+### ⚙️ Technical Skills & Capabilities
 
-#### 1. [Qonnect B2B CRM & Sales Opportunity Platform](https://phxtanes.github.io/Phutanes_Portfolio)
-> **Enterprise Platform / Production System** · *Nuxt 3, Vue 3, Express.js, MySQL, Sequelize ORM, Milvus Vector DB, Azure AD, Docker, GitLab CI/CD*
-- **End-to-End Workflow:** Engineered a complete B2B sales management system covering Lead Acquisition, Opportunity Kanban Pipeline, Quotation generation, Purchase Orders (PO), and Revenue analytics.
-- **Enterprise Security:** Implemented corporate **Single Sign-On (SSO) via Azure AD / MSAL** and strict Role-Based Access Control (RBAC) across frontend route guards and backend middleware.
-- **AI RAG Pipeline:** Designed an AI-powered technical documentation assistant using **Retrieval-Augmented Generation (RAG)** with **Milvus Vector Database** for sub-second semantic search.
-- **LINE OA Integration:** Built bi-directional LINE Official Account webhook handling with interactive Flex Messages, request deduplication, and automated-to-human agent handoff.
-- **Deployment:** Multi-container deployment orchestrated with **Docker Compose** and automated with **GitLab CI/CD**.
+<table>
+  <tr>
+    <td width="20%"><b>🎨 Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js_3-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Backend & APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Lumen_(Laravel)-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🗄️ Databases & Storage</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase_(PostgreSQL)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Milvus_(Vector_DB)-00A1EA?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sequelize_ORM-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI & Enterprise</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG_&_LLM-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_AD_/_SSO-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINE_Messaging_API-00C300?style=for-the-badge&logo=line&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🚀 DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-#### 2. [Unifind — Smart Campus Lost & Found System](https://phxtanes.github.io/Phutanes_Portfolio)
-> **Final-Year Capstone Project / Production Ready** · *Nuxt 3, Vue 3, Node.js, Express.js, Supabase (PostgreSQL), Google Gemini AI, LINE Messaging API, Docker*
-- **Centralized Management:** Architected a centralized digital property management platform and Staff-Only Management Portal for the University of the Thai Chamber of Commerce (UTCC).
-- **AI Smart Matching:** Developed an automated semantic matching engine using **Google Gemini AI SDK** with multi-model fallback to compare item descriptions, imagery, and physical locations.
-- **LINE Chatbot & Verification:** Integrated LINE Official Account with institutional email OTP verification (`@utcc.ac.th`) and automated push notifications for matched property.
-- **Database & Storage:** Designed 13+ relational tables on PostgreSQL (Supabase) including 12-Locker physical storage tracking and tamper-evident claim audit logs.
+---
 
-#### 3. [Disabled Persons Employment Report System](https://phxtanes.github.io/Phutanes_Portfolio)
-> **Government Compliance Platform** · *Vue.js, Nuxt.js, Lumen (PHP/Laravel), MySQL, Figma, RESTful API*
-- **Regulatory Compliance:** Developed an official regulatory reporting portal for legal entities nationwide to file annual Section 33 and 35 disability employment compliance reports.
-- **Automated Verification:** Implemented 13-digit Juristic ID lookup and automated legal quota calculation logic.
-- **Secure File Processing:** Built a multi-step submission stepper with drag-and-drop document upload and client-side PDF compression.
-- **UI/UX & Standards:** Designed complete 18+ screen Figma prototypes and developed REST APIs adhering to government security and PDPA standards.
+### 🌟 Featured Projects
 
-#### 4. [Gold Pawn & Contract Management Platform](https://phxtanes.github.io/Phutanes_Portfolio)
-> **FinTech Point-of-Sale System** · *Vue.js, Tailwind CSS, MediaDevices Web API, RESTful JSON API, Figma*
-- **Counter Operations:** Built an internal counter-service application for pawn loan appraisals, statutory tiered interest calculation, and contract renewal.
-- **KYC Verification:** Integrated direct-from-browser webcam KYC photo verification via Browser MediaDevices API.
-- **Financial Precision:** Built a real-time interest calculation engine with frontend constraint validation to ensure statutory precision.
-
-#### 5. [Dormitory & Apartment Management Platform (Mock BI)](https://phxtanes.github.io/Phutanes_Portfolio)
-> **Operations & Business Intelligence System** · *PHP, MySQL, JavaScript, Bootstrap, Chart.js, CSV Export*
-- **Property Management:** Operations platform for multi-building rental units with automated utility meter difference calculation and batch monthly invoicing.
-- **Executive Analytics:** Built an interactive Business Intelligence dashboard using Chart.js to track occupancy rates and cash flow trends.
-
-#### 6. [UTCC-Phobia 3D Interactive Graphics Experience](https://phxtanes.github.io/Phutanes_Portfolio)
-> **Academic Project (Grade A)** · *Unreal Engine 5, Blender, C++, AI Behavior Trees, Spatial Audio*
-- **3D Graphics & Engine:** Realistic campus recreation in Unreal Engine 5 featuring Lumen Real-Time Global Illumination.
-- **AI & Gameplay:** Implemented enemy AI pathfinding using Behavior Trees and State Machines alongside 3D spatial audio mechanics.
+| 💠 Project | 💬 Description | 🧰 Tech Stack | 📌 Status |
+|---|---|---|:---:|
+| 💼 **Qonnect CRM & Sales Opportunity Platform** | Full-Stack B2B CRM managing end-to-end sales pipeline (Lead → Opportunity → Quotation → PO → Revenue) with Azure AD SSO, AI RAG assistant via Milvus, and LINE OA. | `Nuxt 3` `Vue 3` `Express.js` `MySQL` `Milvus` `Azure AD` `Docker` | ![Production](https://img.shields.io/badge/Production-1a46a0?style=flat-square) |
+| 🏫 **[Unifind - UTCC Lost & Found Platform](https://github.com/Phxtanes/Unifind-jing)** | Institutional lost & found management system with Staff-Only Portal, Google Gemini AI Smart Matching, Locker storage management, and LINE OA Push Notifications. | `Nuxt 3` `Node.js` `Express` `Supabase` `Gemini AI` `LINE OA` `Docker` | ![Completed](https://img.shields.io/badge/Capstone-059669?style=flat-square) |
+| 🏛️ **Disabled Persons Employment Report System** | Nationwide government compliance reporting system under Sections 33 & 35, featuring 13-digit juristic verification, multi-step filing wizards, and audit trails. | `Vue.js` `Nuxt.js` `Lumen (Laravel)` `MySQL` `REST API` `Figma` | ![Production](https://img.shields.io/badge/Gov_Live-1a46a0?style=flat-square) |
+| 💰 **Gold Pawn & Contract Platform** | Internal FinTech operations platform for pawnshops: real-time interest calculation, webcam KYC verification, contract renewals, and barcode receipt printing. | `Vue.js` `Tailwind CSS` `REST API` `Webcam KYC API` `Figma` | ![Delivered](https://img.shields.io/badge/Client_Live-D97706?style=flat-square) |
+| 💳 **E-Payment & Merchant Onboarding Portal** | Modern FinTech portal featuring multi-step onboarding wizards, transaction history filtering, live validation, and checkout interfaces. | `Vue.js` `JavaScript (ES6+)` `Lumen API` `CSS Modules` `Figma` | ![Demo](https://img.shields.io/badge/Demo_Portal-64748B?style=flat-square) |
+| 🏢 **[Dormitory & Apartment BI Dashboard](https://github.com/Phxtanes/Dormitory-management-system)** | Rental operations platform with automated stepped water/electricity metering calculations, invoice generation, tenant contracts, and BI occupancy analytics. | `PHP` `MySQL` `JavaScript` `Bootstrap` `Chart.js` `CSV Export` | ![In Dev](https://img.shields.io/badge/In_Development-7C3AED?style=flat-square) |
+| 🎮 **[UTCC-Phobia 3D Horror Experience](https://github.com/PhxtanesFinal_jing)** | Interactive 3D campus simulation built in Unreal Engine 5 with dynamic Lumen lighting, spatial audio, and AI behavior tree pathfinding. | `Unreal Engine 5` `Blender` `C++` `AI Behavior Tree` | ![Grade A](https://img.shields.io/badge/Grade_A-0F172A?style=flat-square) |
 
 ---
 
 ### 💼 Professional Experience
 
-#### 🏢 Software Developer Intern · **Qonnect**
-*2026 · Enterprise B2B Platform & Production Delivery*
-- Developed Full-Stack B2B CRM and Opportunity Pipeline platform using Nuxt 3, Vue 3, Express.js, MySQL, and Sequelize ORM.
-- Engineered enterprise Azure AD (MSAL) SSO, Milvus AI Vector Search (RAG), and LINE Messaging API Webhooks with Flex Message cards.
-- Configured multi-container Docker Compose environments and automated CI/CD deployment pipelines via GitLab CI/CD.
+#### 🔹 **Software Developer Intern (Full-Stack)** — *Qonnect* `(2026)`
+- Developed an enterprise full-stack **B2B CRM and Sales Opportunity Platform** with Nuxt 3, Vue 3, TailwindCSS, Express.js, and MySQL (Sequelize ORM).
+- Implemented enterprise authentication with **Azure AD / MSAL** and strict **Role-Based Access Control (RBAC)** across frontend routes and backend APIs.
+- Built an **AI-driven RAG knowledge base search** using **Milvus Vector Database** for fast semantic document retrieval.
+- Developed bidirectional **LINE Official Account integrations** (webhooks, Flex Message templates, deduplication, and human handoff).
+- Configured automated multi-container deployment using **Docker Compose** and **GitLab CI/CD**.
 
-#### 🏢 Full-Stack Developer Intern · **Software House Company**
-*2024 – 2025 · Government Compliance & FinTech Systems*
-- Delivered production software for government agencies (Section 33/35 reporting portal) and private clients (Gold Pawn platform).
-- Designed 18+ screen UX/UI flows and interactive prototypes on Figma.
-- Built responsive Vue.js / Nuxt.js frontends and secure Lumen (PHP/Laravel) RESTful API endpoints with MySQL databases.
+#### 🔹 **Full-Stack Developer Intern** — *Software House Company* `(2024 - 2025)`
+- Worked under Senior Project Leads on mission-critical client projects for both government agencies and private enterprises.
+- Designed complete UX/UI prototypes in **Figma (18+ screens)** for complex multi-step workflows.
+- Developed responsive frontend applications in **Vue.js / Nuxt.js** and built backend RESTful APIs with **PHP Lumen (Laravel)** and **MySQL**.
+- Delivered the **Disabled Persons Employment Report System (Government)** and **Gold Pawn Management Platform (FinTech)** in compliance with PDPA guidelines.
 
-#### 🎓 Full-Stack Project Developer · **UTCC Capstone Project (Unifind)**
-*2025 – 2026 · Campus-Wide AI Lost & Found Platform*
-- Led end-to-end architecture and implementation of the campus-wide Unifind platform.
-- Integrated Google Gemini AI SDK for smart semantic matching, Supabase PostgreSQL, and LINE OA push notifications.
-
----
-
-### 🎓 Education & Academic Standing
-
-- **Bachelor of Science in Computer Science**
-  - **University:** University of the Thai Chamber of Commerce (UTCC)
-  - **Cumulative GPAX:** **3.52** · *Final-Year Student (Graduating 2026)*
-  - **Relevant Coursework:** Software Engineering, Database Systems Architecture, Web Application Development, Computer Graphics (Grade A), Object-Oriented Programming, Data Structures & Algorithms.
+#### 🔹 **Full-Stack Project Developer (Capstone)** — *UTCC* `(2025 - 2026)`
+- Engineered **Unifind**, the comprehensive campus lost & found platform with a Staff-Only Portal and student LINE OA.
+- Integrated **Google Gemini AI** for smart lost-and-found semantic matching with multi-model fallbacks.
+- Designed 13+ relational PostgreSQL tables on **Supabase** and deployed the entire architecture with **Docker Compose**.
 
 ---
 
-### 💡 Engineering Principles
+### 📊 GitHub Activity & Stats
 
-- **Problem-Driven Architecture:** Software exists to solve operational bottlenecks. I prioritize understanding business workflows and user pain points before writing code.
-- **Maintainability & Clean Code:** Writing modular, well-structured, and readable code with strong type safety and predictable state management.
-- **Reliability & Security:** Treating database indexing, authentication integrity (RBAC, JWT, SSO), and input validation as non-negotiable fundamentals.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phxtanes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phxtanes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="165" alt="Top Languages" />
+</div>
 
 ---
+
+### 📫 Connect with Me
 
 <div align="center">
 
-### 📬 Let's Connect
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phxtanes.github.io/Phutanes_Portfolio-1a46a0?style=for-the-badge)](https://phxtanes.github.io/Phutanes_Portfolio)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phutanes_Trisiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phutanes-trisiri)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Phxtanes-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phxtanes)&nbsp;
+[![Email](https://img.shields.io/badge/Email-phutanes.tri%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phutanes.tri@gmail.com)&nbsp;
+[![LINE](https://img.shields.io/badge/LINE-_phutanes_-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/~_phutanes_)
 
-**Open to Full-Stack Developer & Software Engineer Roles**
+<br />
 
-[📧 phutanes.tri@gmail.com](mailto:phutanes.tri@gmail.com) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com/in/phutanes-trisiri) &nbsp;•&nbsp; [🌐 Portfolio](https://phxtanes.github.io/Phutanes_Portfolio) &nbsp;•&nbsp; [📱 +66 94 418 6852](tel:0944186852) &nbsp;•&nbsp; [💬 Line: _phutanes_](https://line.me/ti/p/~_phutanes_)
-
-<br/>
-
-*⭐️ "Passionate about engineering reliable software, beautiful interfaces, and scalable systems."*
+🩵 *Thank you for visiting my profile — feel free to explore my repositories or reach out for collaboration!*
 
 </div>
